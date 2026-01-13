@@ -15,3 +15,4 @@
 *.aliases
 *.lvlps
 .cache/
+/Sample Waveforms/*.tdms_index
