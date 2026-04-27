@@ -16,3 +16,4 @@
 *.lvlps
 .cache/
 /Sample Waveforms/*.tdms_index
+*.lvprojstate
