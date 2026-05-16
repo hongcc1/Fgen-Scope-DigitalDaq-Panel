@@ -20,10 +20,11 @@
 		<Item Name="Typedef" Type="Folder" URL="../Typedef">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Live Graph Plotter.lvclass" Type="LVClass" URL="../Live Graph Plotter/Live Graph Plotter.lvclass"/>
 		<Item Name="Sinc generator to TDMS.vi" Type="VI" URL="../Sinc generator to TDMS.vi"/>
 		<Item Name="Test Automatation Example1.vi" Type="VI" URL="../Test Automatation Example1.vi"/>
-		<Item Name="Test Panel 2.vi" Type="VI" URL="../Test Panel 2.vi"/>
-		<Item Name="Test Panel.vi" Type="VI" URL="../Test Panel.vi"/>
+		<Item Name="Test Panel - Multiple Loops.vi" Type="VI" URL="../Test Panel - Multiple Loops.vi"/>
+		<Item Name="Test Panel - Single Loop.vi" Type="VI" URL="../Test Panel - Single Loop.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
