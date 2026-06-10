@@ -79,12 +79,12 @@ You can use the Express VI "Align and Resample" to resample the original digital
 
 ## Customize the Code for Your Application
 ### Automation Example
-Refer to the (Code/Test Automatation Example1.vi)[Code/Test%20Automatation%20Example1.vi], which shows how to call the code in `Test Panel - Single Loop.vi` to automate the test which sweep different parameters (tdms file path), and then post-process the waveforms to decide whether should proceed to the next iteration. You can modify the code to fit your application.
+Refer to the [Code/Test Automatation Example1.vi](Code/Test%20Automatation%20Example1.vi), which shows how to call the code in `Test Panel - Single Loop.vi` to automate the test which sweep different parameters (tdms file path), and then post-process the waveforms to decide whether should proceed to the next iteration. You can modify the code to fit your application.
 
 ![Automation Example](Images/Test%20Automation%20Example1.png)
 
 ### Waveform Post-Processing Example
-Refer to the (Code\SubVI\Evaluate Captured Waveforms 2.vi)[Code/SubVI/Evaluate%20Captured%20Waveforms%202.vi] and (Code\Test Panel - Multiple Loops.vi)[Code/Test%20Panel%20-%20Multiple%20Loops.vi], which shows how to post-processing the waveforms by taking the RMS.
+Refer to the [Code\SubVI\Evaluate Captured Waveforms 2.vi](Code/SubVI/Evaluate%20Captured%20Waveforms%202.vi) and [Code\Test Panel - Multiple Loops.vi](Code/Test%20Panel%20-%20Multiple%20Loops.vi), which shows how to post-processing the waveforms by taking the RMS.
 
 ![Post-Processing Example](Images/Post%20Process%20Waveform%201.png)
 
